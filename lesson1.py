@@ -1,4 +1,4 @@
 n = int(input())
 m = int(input())
-print(n // m)
-print(n % m)
+print("Яблок у друзей", n // m)
+print("Яблок у меня", n % m)
